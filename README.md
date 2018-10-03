@@ -67,4 +67,32 @@ Hans Rosling videos:
   - http://sta.mn/shf
 
 Gapminder data:
-- https://gist.githu
+- https://gist.githubusercontent.com/almccon/e47e8bab24d66e198b1737005664df26/raw/5e7e4fbcaf986482aea142414f84b5046808977e/gapminder_avg.csv
+- http://sta.mn/yww 
+
+Data binding to divs (no svg):
+- https://blockbuilder.org/almccon/541b024ff7a9b1a10fc2a5beb5657451
+- http://sta.mn/jb4
+
+Data binding to SVG:
+- https://blockbuilder.org/almccon/22a00b370abcb174b345ad97cd92169d
+- http://sta.mn/j9p
+
+Using scales:
+- https://blockbuilder.org/almccon/f88974c49a6a03d868aad275f46bedb5
+- http://sta.mn/fg2
+
+Adding axes:
+- https://blockbuilder.org/almccon/0b6ff5e6cac67142a013255aca297312
+- http://sta.mn/wcm
+
+Now let's make a scatterplot:
+- https://blockbuilder.org/almccon/ce995a988bc4f0d7f13cb1236b12a1b9
+- http://sta.mn/45c
+
+Time series data (needs a new dataset):
+- https://blockbuilder.org/almccon/cc8061dff72f040f69cd02d1dcfcd70e
+- http://sta.mn/wys
+New data:
+- https://gist.githubusercontent.com/almccon/cc8061dff72f040f69cd02d1dcfcd70e/raw/e8bc7890b6f2d97112990359fc9460ee24481dc7/gapminder_time_subset.csv
+- http://sta.mn/nwk
