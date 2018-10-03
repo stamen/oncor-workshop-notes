@@ -1,6 +1,29 @@
 # oncor-workshop-notes
 Notes and links for dataviz workshop, 2018-10-03
 
+## Agenda
+
+Section 1 (9AM - 12:30PM)
+
+* Introductions
+* Using blockbuilder.org
+* HTML, CSS, & JavaScript Quickstart
+* Hands-on walk-thru of D3.js
+
+Lunch
+
+Section 2 (1:30PM - 3:30)
+
+* Why Visualize?
+* Marks & Channels
+* Interactive visualization
+* Multiple views
+
+Section 3 (3:30 - 5PM)
+
+* Pulling it all together
+* Discussion & Questions
+
 ## Links
 
 HTML basics:
