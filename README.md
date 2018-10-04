@@ -28,7 +28,9 @@ Section 3 (3:30 - 5PM)
 Follow these directions to install Python and start SimpleHTTPServer on Windows:
 -  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
 
-Then download your project as Alan demonstrated.
+Then download your project as Alan demonstrated:
+- Go to the original "gist" for your code (in the URL, replace "blockbuilder.org" with "gist.github.com"
+- Click the "Download ZIP" button at the upper right
 
 ## Links
 
@@ -106,5 +108,7 @@ New data:
 ## Miscellaneous
 
 Another brushing example: http://bl.ocks.org/syntagmatic/5441022
+
 Line transitions (part 1/3): https://bl.ocks.org/mbostock/1643051
+
 Google Public Data Explorer: https://www.google.com/publicdata/explore
