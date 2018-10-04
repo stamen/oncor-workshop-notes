@@ -24,6 +24,12 @@ Section 3 (3:30 - 5PM)
 * Pulling it all together
 * Discussion & Questions
 
+## Developing locally
+Follow these directions to install Python and start SimpleHTTPServer on Windows:
+-  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+
+Then download your project as Alan demonstrated.
+
 ## Links
 
 HTML basics:
@@ -96,3 +102,9 @@ Time series data (needs a new dataset):
 New data:
 - https://gist.githubusercontent.com/almccon/cc8061dff72f040f69cd02d1dcfcd70e/raw/e8bc7890b6f2d97112990359fc9460ee24481dc7/gapminder_time_subset.csv
 - http://sta.mn/nwk
+
+## Miscellaneous
+
+Another brushing example: http://bl.ocks.org/syntagmatic/5441022
+Line transitions (part 1/3): https://bl.ocks.org/mbostock/1643051
+Google Public Data Explorer: https://www.google.com/publicdata/explore
