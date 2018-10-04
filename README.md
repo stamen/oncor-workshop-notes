@@ -105,10 +105,60 @@ New data:
 - https://gist.githubusercontent.com/almccon/cc8061dff72f040f69cd02d1dcfcd70e/raw/e8bc7890b6f2d97112990359fc9460ee24481dc7/gapminder_time_subset.csv
 - http://sta.mn/nwk
 
-## Miscellaneous
+## Afternoon demos:
 
-Another brushing example: http://bl.ocks.org/syntagmatic/5441022
+Here are the interaction enhancements we added to the gapminder demo:
+- https://blockbuilder.org/almccon/bb9062cb4c5b24816d35329ad3bc59e8
 
-Line transitions (part 1/3): https://bl.ocks.org/mbostock/1643051
+Here's a simple map demo that also illustrates d3 version 5:
+- http://blockbuilder.org/almccon/43fc43c5e0db2d0f0656fdf6ddb6eb08
 
-Google Public Data Explorer: https://www.google.com/publicdata/explore
+Google Public Data Explorer:
+- https://www.google.com/publicdata/explore
+
+Stamen's "American Panorama" examples of linked views:
+- http://dsl.richmond.edu/panorama/forcedmigration
+- http://dsl.richmond.edu/panorama/foreignborn
+
+Brushing a line chart:
+- http://blockbuilder.org/ColinEberhardt/000b1721b69868f1ce5d
+
+Another brushing example:
+- http://bl.ocks.org/syntagmatic/5441022
+
+Libraries built on top of D3:
+- D3fc: https://d3fc.io/
+- DC.js: https://dc-js.github.io/dc.js/  (has a nice dashboard)
+- Vega: https://vega.github.io/vega/
+- Crossfilter: http://square.github.io/crossfilter/
+
+Line chart transitions:
+- Bad: https://bl.ocks.org/mbostock/1643051
+- Good: https://bl.ocks.org/mbostock/1642874
+- More explanation: https://bost.ocks.org/mike/path/
+
+Force simulation:
+- https://blockbuilder.org/FrissAnalytics/80d3b7e5494b4095ca52544a34167095
+
+Force Layout:
+- https://blockbuilder.org/ColinEberhardt/6ceb7ca74aabac9c8534d7120d31b382
+
+Airports voronoi:
+- https://www.jasondavies.com/maps/voronoi/airports/
+
+Using an invisible voronoi to improve mouseover:
+- https://www.visualcinnamon.com/2015/07/voronoi.html
+
+Voronoi interaction:
+- http://blockbuilder.org/HarryStevens/95cda9c3302f1f938b95c31148bd7823
+
+D3 docs:
+- https://github.com/d3/d3
+
+API reference:
+- https://github.com/d3/d3/blob/master/API.md
+
+Adding tooltips
+- Creating your own tooltips: http://bl.ocks.org/d3noob/a22c42db65eb00d4e369
+- Using "d3-tip" https://github.com/Caged/d3-tip
+- Using "tipsy" http://bl.ocks.org/ilyabo/1373263
